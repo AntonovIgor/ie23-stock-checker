@@ -1,0 +1,4 @@
+# Получить остаток по товару
+GET http://localhost:8080/stock?vendorCode=12346 HTTP/1.1
+
+###
